@@ -43,7 +43,7 @@ This repository is licensed under the MIT License. Feel free to use and modify t
 
 Contact
 Ritik Sharma
-LinkedIn
-GitHub
+LinkedIn : https://www.linkedin.com/in/ritik-sharma-87543a234/
+ritiksharma21july@gmail.com
 
 For any questions or feedback, please reach out through the contact links provided.
